@@ -18,7 +18,7 @@ import requests
 import base64
 import zipfile
 import 
-impor os
+impo os
 
 # ----------------------------
 # 1️⃣  BASIC SETTINGS
