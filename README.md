@@ -1,7 +1,7 @@
 
 
 <!--
-s file) appears on your GitHub profile.
+ppears on your GitHub profile.
 
 
 
