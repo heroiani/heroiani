@@ -1,7 +1,7 @@
 
 
 <!--
-ppears on your GitHub profile.
+GitHub profile.
 
 
 
