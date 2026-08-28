@@ -14,7 +14,7 @@ ouns: ...
 
 -->
 s
-se64
+64
 import zipfile
 port 
 impo os
