@@ -17,7 +17,7 @@ s
 64
 import zipfile
 port 
-impo os
+mpo os
 
 # ----------------------------
 # 1️⃣  BASIC SETTINGS
