@@ -17,7 +17,7 @@ s
 
 import zipfile
 port 
-po os
+o os
 
 # ----------------------------
 # 1️⃣  BASIC SETTINGS
