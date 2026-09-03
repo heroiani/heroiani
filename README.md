@@ -13,7 +13,7 @@
 uns: ...
 
 -->
-s
+
 
 import zipfile
 port 
