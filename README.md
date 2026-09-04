@@ -17,7 +17,7 @@ uns: ...
 
 import zipfile
 port 
-o os
+
 
 # ----------------------------
 # 1️⃣  BASIC SETTINGS
