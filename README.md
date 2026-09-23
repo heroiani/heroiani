@@ -20,7 +20,7 @@ l
 
 
 # ----------------------------
-# 1️⃣ IC SETTINGS
+# 1️⃣C SETTINGS
 # ----------------------------
 owner = "OWNER"          # e.g. "torvalds"
 repo  = "REPO"           # e.g. "linux"
