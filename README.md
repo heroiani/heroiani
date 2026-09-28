@@ -20,7 +20,7 @@ l
 
 
 # ----------------------------
-#  ETTINGS
+#  TTINGS
 # ----------------------------
 owner = "OWNER"          # e.g. "torvalds"
 repo  = "REPO"           # e.g. "linux"
