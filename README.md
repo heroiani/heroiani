@@ -28,7 +28,7 @@ branch = "main"          # or the default branch you need
 # If the repo is private, set a token here:
 # token = "ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 # headers = {"Authorization": f"token {token}"}
-rs = {}  # public repo needs no auth
+rs = {}  # blic repo needs no auth
 
 # ----------------------------
 # 2️⃣ T ZIP ARCHIVE (quickest way to get the whole repo)
