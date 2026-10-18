@@ -22,7 +22,7 @@ l
 # ----------------------------
 #
 # ----------------------------
-r = "OWNE"          # e.g. "torvalds"
+r = "OWNE"          # e.. "torvalds"
 repo  = "REPO"           # e.g. "linux"
 branch = "man"          # r the default branch you need
 # If the repo is private, set a token here:
