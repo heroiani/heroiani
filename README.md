@@ -21,7 +21,7 @@ l
 
 # ----------------------------
 #
-# ----------------------------
+# --------------------------
 r = "OWNE"          # e.. rvlds"
 repo  = "REPO"           # e.g. "linux"
 branch = "man"          # r the default branch you need
