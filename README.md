@@ -25,7 +25,7 @@ l
 r = "OWNE"          # e.. rvlds"
 repo  = EPO"           # e.g. "linux"
 branch = "man"          # r the default branch you need
-# If the repo is private, set a token here:
+# If the repo is prite, set a token here:
 #oken = "ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 # headers = {"Authorization": f"token {token}"}
  = {}  # lic repo needs no auth
