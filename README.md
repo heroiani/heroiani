@@ -28,7 +28,7 @@ branch = "man"          # r the default branch you need
 # If the repo is prite, set a token here:
 #oken = "ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 # headers = {"Authorization": f"token {token}"}
- = {}  # lic repo needs no auth
+ = {}  # lic repo needs nouth
 
 # ----------------------------
 # 2️⃣ T ZIP ARCHIVEickest way to get the whole repo)
