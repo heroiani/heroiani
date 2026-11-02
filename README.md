@@ -31,7 +31,7 @@ branch = "man"          # r the default branch you need
  = {}  # lic repo needs nouth
 
 # ----------------------------
-# 2️⃣ T ZIP ARCHIVEickest way to get the whole repo)
+# 2️⃣ T ZIP ARCHIVEickest way to get the ole repo)
 # ----------------------------
 zip_url = f"https://api.github.com/repos/{owner}/{repo}/zipball/{branch}"
 resp = requests.get(zip_url, headers=headers)
