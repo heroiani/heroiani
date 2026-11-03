@@ -28,7 +28,7 @@ branch = "man"          # r the default branch you need
 # If the repo is prite, set a ken here:
 #oken = "ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 # headers = {"Authorization": f"token {token}"}
- = {}  # lic repo needs nouth
+ = {}  # lic repo needsuth
 
 # ----------------------------
 # 2️⃣ T ZIP ARCHIVEickest way to get the ole repo)
